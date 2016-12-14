@@ -1,0 +1,14 @@
+<ion-view view-title="附近餐馆">
+    <ion-content>
+        <div class="list card" ng-repeat="x in restaurant.restaurants">
+            <div class="item" >
+               <h2>酒店名称:{{x.name}} </h2>
+               <p>电话:{{x.phone}}      地址:{{x.address}}</p>
+            </div>
+            <div class="item image">
+                <img ng-src="{{x.image_url}}">
+               <p>城市:{{x.city}}</p>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
