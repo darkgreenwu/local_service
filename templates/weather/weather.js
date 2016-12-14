@@ -1,7 +1,7 @@
 
 angular.module("myapp").controller("weather",function($scope,$http,$ionicLoading){
     //天气api
-        var url="http://wthrcdn.etouch.cn/weather_mini?city=重庆";
+        var url="https://wthrcdn.etouch.cn/weather_mini?city=重庆";
     //显示加载图标
     $ionicLoading.show();
     //请求数据
