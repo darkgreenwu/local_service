@@ -17,7 +17,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=72253",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=72253",
-      "image_url": "https://www.opentable.com/img/restimages/72253.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/72253.jpg"
     },
     {
       "id": 49108,
@@ -34,7 +34,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=49108",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=49108",
-      "image_url": "https://www.opentable.com/img/restimages/49108.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/49108.jpg"
     },
     {
       "id": 92827,
@@ -51,7 +51,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=92827",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=92827",
-      "image_url": "https://www.opentable.com/img/restimages/92827.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/92827.jpg"
     },
     {
       "id": 39541,
@@ -68,7 +68,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=39541",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=39541",
-      "image_url": "https://www.opentable.com/img/restimages/39541.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/39541.jpg"
     },
     {
       "id": 102163,
@@ -85,7 +85,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=102163",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=102163",
-      "image_url": "https://www.opentable.com/img/restimages/102163.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/102163.jpg"
     },
     {
       "id": 76030,
@@ -102,7 +102,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=76030",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=76030",
-      "image_url": "https://www.opentable.com/img/restimages/76030.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/76030.jpg"
     },
     {
       "id": 13885,
@@ -119,7 +119,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=13885",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=13885",
-      "image_url": "https://www.opentable.com/img/restimages/13885.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/13885.jpg"
     },
     {
       "id": 28060,
@@ -136,7 +136,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=28060",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=28060",
-      "image_url": "https://www.opentable.com/img/restimages/28060.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/28060.jpg"
     },
     {
       "id": 87352,
@@ -153,7 +153,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=87352",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=87352",
-      "image_url": "https://www.opentable.com/img/restimages/87352.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/87352.jpg"
     },
     {
       "id": 56422,
@@ -170,7 +170,7 @@
       "price": null,
       "reserve_url": "http://www.opentable.com/single.aspx?rid=56422",
       "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=56422",
-      "image_url": "https://www.opentable.com/img/restimages/56422.jpg"
+      "image_url": "http://www.opentable.com/img/restimages/56422.jpg"
     }
   ]
 }
